@@ -1,2 +1,2 @@
-# polcompball test
+# Polcompball test
 polcompball compass test
